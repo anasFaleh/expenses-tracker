@@ -3,7 +3,7 @@
 
 ## 📌 Overview
 
-The **Expenses Management API** is a RESTful service built with **Node.js & Express** to help users track and manage their expenses efficiently. It provides endpoints to add, update, delete, and retrieve expense records. The API is documented using **Swagger** for easy testing and integration.
+The **Expenses Management API** is a RESTful service built with **Node.js & Express** to help users track and manage their expenses efficiently. It provides endpoints to add, update, delete, and retrieve expense records.
 
 ## 🚀 Features
 
