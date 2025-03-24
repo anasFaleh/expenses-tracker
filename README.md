@@ -11,7 +11,6 @@ The **Expenses Management API** is a RESTful service built with **Node.js & Expr
 - 📊 **Retrieve all expenses** or filter by date.
 - 🔄 **Update expenses** when needed.
 - ❌ **Delete expenses** that are no longer relevant.
-- 📜 **API documentation** with Swagger.
 
 ## 🛠️ Tech Stack
 
