@@ -68,7 +68,6 @@ MONGO_URI=your_mongodb_connection_string
 
 Feel free to fork the repo, create a feature branch, and submit a pull request! 😊
 
-## 📜 License
 
-This project is licensed under the **MIT License**.
+
 
